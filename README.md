@@ -1,6 +1,6 @@
 # Сортировщик рабочего стола
 
-## [Скачать программу](https://github.com/stickytape1/desktop_sorter/raw/main/main.exe)
+## [Скачать программу](https://github.com/stickytape1/desktop_sorter/raw/main/desktop_sorter.exe)
 
 Это уже готовый файл который не требует компиляции, установки.
 Если вы попали на эту страницу, то вы знаете зачем это надо.
